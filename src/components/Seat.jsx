@@ -97,7 +97,7 @@ const history = useHistory()
             }
         })}
       </div> 
-      <button onClick={handlebooking}>book</button>
+      <button className="bookbutton" onClick={handlebooking}>book</button>
     </div>
     );
 }

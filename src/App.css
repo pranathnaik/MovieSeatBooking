@@ -1,7 +1,12 @@
 * {
   padding: 0;
   margin: 0;
+
   box-sizing: border-box;
+}
+body {
+  padding-left: 45px;
+  padding-top: 20px;
 }
 .seatcontainer {
   display: flex;
@@ -32,4 +37,16 @@
   background-color: greenyellow;
   padding: 13px;
   margin: 5px;
+}
+
+.Selectoption input {
+  margin: 8px;
+}
+
+.bookbutton {
+  width: 10%;
+  background-color: palevioletred;
+  border: none;
+  padding: 10px;
+  font-size: larger;
 }

@@ -13,9 +13,9 @@ const Home = () => {
   return (
 
     <div className="App">
-      <div className="headtag">Book tickets</div>
+      <h2> Book tickets</h2>
       <hr />
-      <div className="selectshowtag">Select Show :</div>
+      <h3>Select Show :</h3>
       <div className="Selectoption">
 
         <input onChange={selectedShow} value="show1" type="radio" name="show1" id="show1" />show1
