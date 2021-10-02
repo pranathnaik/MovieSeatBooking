@@ -26,6 +26,22 @@ var shows = [
                         seatname:"A5",
                         available:true
                     },
+                    {
+                        seatname:"A6",
+                        available:true
+                    },
+                    {
+                        seatname:"A7",
+                        available:true
+                    },
+                    {
+                        seatname:"A8",
+                        available:true
+                    },
+                    {
+                        seatname:"A9",
+                        available:true
+                    },
                       
                        
                 ]
@@ -55,6 +71,11 @@ var shows = [
                             seatname:"B5",
                             available:true
                         },
+                        {
+                            seatname:"B6",
+                            available:true
+                        },
+                    
                     
                 ]
             },
@@ -63,10 +84,7 @@ var shows = [
                 price: 240,
                 seatstatus: [
                     
-                        {
-                            seatname:"C1",
-                            available:true
-                        },
+                      
                         {
                             seatname:"C2",
                             available:true
@@ -81,6 +99,14 @@ var shows = [
                         },
                         {
                             seatname:"C5",
+                            available:true
+                        },
+                        {
+                            seatname:"C6",
+                            available:true
+                        },
+                        {
+                            seatname:"C7",
                             available:true
                         },
                     
@@ -117,7 +143,14 @@ var shows = [
                         seatname:"A5",
                         available:true
                     },
-                      
+                    {
+                        seatname:"A6",
+                        available:true
+                    },
+                     {
+                        seatname:"A7",
+                        available:true
+                    },
                        
                 ]
             },
@@ -126,10 +159,7 @@ var shows = [
                 price: 280,
                 seatstatus: [
                     
-                        {
-                            seatname:"B1",
-                            available:true
-                        },
+                        
                         {
                             seatname:"B2",
                             available:true
@@ -144,6 +174,10 @@ var shows = [
                         },
                         {
                             seatname:"B5",
+                            available:true
+                        },
+                        {
+                            seatname:"B6",
                             available:true
                         },
                     
@@ -172,6 +206,14 @@ var shows = [
                         },
                         {
                             seatname:"C5",
+                            available:true
+                        },
+                        {
+                            seatname:"C6",
+                            available:true
+                        },
+                        {
+                            seatname:"C7",
                             available:true
                         },
                     
@@ -208,6 +250,14 @@ var shows = [
                         seatname:"A5",
                         available:true
                     },
+                    {
+                        seatname:"A6",
+                        available:true
+                    },
+                    {
+                        seatname:"A7",
+                        available:true
+                    },
                       
                        
                 ]
@@ -237,6 +287,18 @@ var shows = [
                             seatname:"B5",
                             available:true
                         },
+                        {
+                            seatname:"B6",
+                            available:true
+                        },
+                        {
+                            seatname:"B7",
+                            available:true
+                        },
+                        {
+                            seatname:"B8",
+                            available:true
+                        },
                     
                 ]
             },
@@ -263,6 +325,22 @@ var shows = [
                         },
                         {
                             seatname:"C5",
+                            available:true
+                        },
+                        {
+                            seatname:"C6",
+                            available:true
+                        },
+                        {
+                            seatname:"C7",
+                            available:true
+                        },
+                        {
+                            seatname:"C8",
+                            available:true
+                        },
+                        {
+                            seatname:"C9",
                             available:true
                         },
                     
